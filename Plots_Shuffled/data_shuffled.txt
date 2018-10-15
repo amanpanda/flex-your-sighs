@@ -1,0 +1,32 @@
+Will compare two graphs for method 3, val 1000000.000000, homophone_strat 1
+Expected overlap using homophone strategy - use sum frequency : 15378.557997370111
+Number of nodes in G1 and G2 19541 19536
+
+Comparing max component size
+graph1 5784 graph2 5666
+
+Comparing degree centrality
+Size of intersect: 15411
+R^2 measure (0.96821117820169467, 0.0)
+KS measure (0.21465317142675006, 0.0)
+
+Comparing betweenness centrality
+Size of intersect: 15411
+R^2 measure (0.87276657716629169, 0.0)
+KS measure (0.021965788159304278, 0.00015732209280186821)
+
+Comparing eigenvector centrality
+Size of intersect: 15411
+R^2 measure (0.9107852369707693, 0.0)
+KS measure (0.49501049076301112, 0.0)
+
+Comparing transitivity
+graph1 0.29077528525580204 graph2 0.29183332409292156
+
+Comparing clustering coefficient
+Size of intersect: 15411
+R^2 measure (0.70994108515488896, 0.0)
+KS measure (0.0056638196318867795, 0.91189035215174341)
+
+Comparing aspl
+graph1 6.82448029385026 graph2 6.573750923306348
